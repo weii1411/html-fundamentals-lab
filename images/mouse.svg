@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420">
+  <rect width="720" height="420" fill="#f8fafc"/>
+  <path d="M360 80 C265 80 225 155 225 235 C225 325 285 350 360 350 C435 350 495 325 495 235 C495 155 455 80 360 80 Z"
+        fill="#d1d5db" stroke="#111827" stroke-width="5"/>
+  <line x1="360" y1="82" x2="360" y2="175" stroke="#111827" stroke-width="4"/>
+  <rect x="345" y="130" width="30" height="58" rx="12" fill="#9ca3af"/>
+  <text x="360" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" fill="#111827">Wireless Mouse M20</text>
+</svg>
